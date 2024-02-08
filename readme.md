@@ -2,7 +2,7 @@
 
 ![Insights](images/Insights.jpg)
 ![Report](images/Report.jpg)
-![Sample Questions](images/SampleQuestions.jpg)
+![Sample Questions](images/Sample%20Questions.jpg)
 
 ## Overview
 
