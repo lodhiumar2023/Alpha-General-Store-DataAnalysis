@@ -1,8 +1,8 @@
 # Sales Analysis Report - Alpha General Store (Year 2022)
 
-![Insights](images/Insights.jpg)
-![Report](images/Report.jpg)
-![Sample Questions](images/Sample%20Questions.jpg)
+![Insights](images/Insights.jpg) <br><br>
+![Report](images/Report.jpg) <br><br>
+![Sample Questions](images/Sample%20Questions.jpg) <br><br>
 
 ## Overview
 
