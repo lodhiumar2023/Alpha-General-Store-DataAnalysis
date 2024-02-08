@@ -1,5 +1,9 @@
 # Sales Analysis Report - Alpha General Store (Year 2022)
 
+![Insights](images/Insights.jpg)
+![Report](images/Report.jpg)
+![Sample Questions](images/SampleQuestions.jpg)
+
 ## Overview
 
 This report provides insights into the sales performance of Alpha General Store for the year 2022.
